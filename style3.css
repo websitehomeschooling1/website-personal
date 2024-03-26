@@ -1,0 +1,23 @@
+*{
+    text-decoration: none;
+    margin: 0%;
+    padding: 0%;
+}
+
+h1{
+    margin: 3%;
+    padding: 3%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 55px;
+    text-align: center;
+    color:azure;
+}
+body{
+    background-image: url(nganga.jpg) ;
+    background-size: 100pc;
+}
+h2{
+    text-align: center;
+    color: azure;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
